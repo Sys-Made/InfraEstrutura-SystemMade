@@ -1,0 +1,62 @@
+System made uma empresa de desenvolvimento de software solicitou a
+criação da planta baixa de sua empresa...
+
+Ambientes da empresa:
+	Recepção/Sala de espera
+	Sala de reuniões
+	Sala de desenvolvimento	
+	Datacenter
+	Banheiro
+
+
+Objetos necessários para cada ambiente:
+	
+	Recepção/ Sala de espera:
+		Mesa em L
+		Cadeira
+		Computador
+		Monitor
+		Teclado e mouse
+		Nobreak
+		Impressora
+		Sofá
+		ar condicionado
+		Lixeira
+	
+	Sala de reuniões:
+		Mesa de reunião (6 assentos)
+		6 cadeiras
+		suporte para televisão
+		tv smart/android
+		
+	Sala de desenvolvimento:
+		Estação de trabalho (6 assentos)
+		6 cadeiras
+		6 Desktops
+		6 Monitores
+		6 Kits Teclado e mouse
+		2 Nobreak
+		ventilador
+		Impressora
+		Lixeira
+
+	Datacenter:
+		Mesa
+		Cadeira
+		Monitor
+		Kit mouse Teclado
+		Rack (Prateleira)
+		Servidor
+		Ar condicionado
+		Lixeira
+
+	Banheiro:
+		2 Vaso sanitário
+		2 Pia
+		2 Lixeira
+
+
+
+
+
+		
